@@ -6,25 +6,25 @@
     },
     "mainPicture": "/assets/HP.webp",
     "mainPictureJPG": "/assets/HP.jpeg",
-    "pronunciation": "/ri-shi-kaysh/",
+    "pronunciation": "/ah - le - x/",
     "audioFile": "/assets/name-pro.mp3",
     "cssVarPrefix": "hp",
-    "email": "hrishikeshpaul12@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/hrishikeshpaul/",
-    "github": "https://github.com/hrishikeshpaul",
+    "email": "jensenalex3022@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/alex-jensen32/",
+    "github": "https://github.com/ajensen32",
     "resume": "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1s3G7PiPHlK3Ett_W-WUU01GQnsggiLrWZB3IiMAgBEk/export?format=pdf",
     "socials": [
         {
             "type": "linkedin",
-            "link": "https://www.linkedin.com/in/hrishikeshpaul/"
+            "link": "https://www.linkedin.com/in/alex-jensen32/"
         },
         {
             "type": "github",
-            "link": "https://github.com/hrishikeshpaul"
+            "link": "https://github.com/ajensen32"
         },
         {
             "type": "mail",
-            "link": "mailto:hrishikeshpaul12@gmail.com"
+            "link": "mailto:jensenalex3022@gmail.com"
         }
     ]
 }

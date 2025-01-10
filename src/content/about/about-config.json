@@ -2,35 +2,27 @@
     "educations": [
         {
             "id": "edu-1",
-            "school": "Indiana University",
-            "degree": "Master of Science in Computer Science",
-            "duration": "Aug 2019 - May 2021",
+            "school": "University of South Dakota",
+            "degree": "Bachelor of Science in Computer Science, AI Specialization",
+            "duration": "Aug 2021- May 2025",
             "content": [
-                "GPA: 4/4",
-                "Courses: Software Engineering, Distributed Systems, Operating Systems, Advanced Algorithms, Experience Design"
-            ]
-        },
-        {
-            "id": "edu-2",
-            "school": "Manipal University",
-            "degree": "Bachelors in Computer Engineering",
-            "duration": "Aug 2015 - Jul 2019",
-            "content": [
-                "GPA: 8/10",
-                "Courses: Data Structures, OOP, Algorithms, Software Engineering, Computer Networks, Artificial Intelligence"
+                "GPA: 3.6/4.0",
+                "Coursework: Computer Archictecture, Data Structures, Web Development, Data Mining, Machine Learning, Artificial Intelligence, Software Engineering"
             ]
         }
+
     ],
     "experiences": [
         {
             "id": "exp-1",
-            "company": "Reputation",
-            "position": "Software Engineer (Frontend)",
-            "duration": "Jun 2020 - Jun 2021",
+            "company": "Innovative Systems",
+            "position": "Software Developer Intern",
+            "duration": "May 2024 - Dec 2024",
             "description": [
-                "Revamping the current report generation framework using React, that aggregates data from 30 modules to support an interactive cartesian system.​",
-                "Integrated user activity data from BigQuery into a custom tailored dashboard available to 10000+ clients.",
-                "Spearheaded the work on multiple reports for 5 priority clients to provide additional functionalities."
+                "Built dynamic reporting software and dashboards using ASP.NET Core, Blazor, and SQL Server​",
+                "Quickly learned and adapted to new technologies in order to meet deadlines and improve system functionality",
+                "Collaborated in cross-departmental teams, contributing to sprint planning and brainstorming sessions",
+                "Integrated caching to store frequently accessed ata, reducing database queries and improving response times"
             ]
         },
         {

@@ -1,11 +1,11 @@
 {
-    "name": "Hrishikesh Paul",
+    "name": "Alex Jensen",
     "logoType": {
         "mobile": "HP",
-        "desktop": "Hrishikesh Paul"
+        "desktop": "Alex Jensen"
     },
-    "mainPicture": "/assets/HP.webp",
-    "mainPictureJPG": "/assets/HP.jpeg",
+    "mainPicture": "/assets/MainPortfolioPicture.jpeg",
+    "mainPictureJPG": "/assets/MainPortfolioPicture.jpeg",
     "pronunciation": "/ah - le - x/",
     "audioFile": "/assets/name-pro.mp3",
     "cssVarPrefix": "hp",

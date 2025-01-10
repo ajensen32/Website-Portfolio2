@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Template 🖐
 > Version 2 of a simple, minimal and responsive personal website template, built using React, TypeScript, HTML and SCSS.
 
@@ -68,3 +69,6 @@ All the images are in `public/assets`.
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2022 © <a href="https://hrishikeshpaul.github.io/" target="_blank">Hrishikesh Paul</a>
+=======
+# Website-Portfolio2
+>>>>>>> ab05e552e2af6288737d9ac46480f2bbd965d87c

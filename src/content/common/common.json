@@ -4,8 +4,8 @@
         "mobile": "HP",
         "desktop": "Alex Jensen"
     },
-    "mainPicture": "/assets/MainPortfolioPicture.jpeg",
-    "mainPictureJPG": "/assets/MainPortfolioPicture.jpeg",
+    "mainPicture": "/assets/HP.webp",
+    "mainPictureJPG": "/assets/HP.jpeg",
     "pronunciation": "/ah - le - x/",
     "audioFile": "/assets/name-pro.mp3",
     "cssVarPrefix": "hp",

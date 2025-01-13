@@ -1,64 +1,47 @@
 [
     {
-        "id": "other-project-post",
-        "title": "Part of Speech Tagger",
-        "year": "Aug 2019 - Dec 2019",
-        "github": "https://github.com/hrishikeshpaul/post",
-        "demo": "https://hrishikeshpaul.github.io/post/",
-        "tags": ["Python", "Vue", "Flask", "Artificial Intelligence", "Language Processing"],
-        "description": "Post is a simple algorithm that was developed to tag a word in a sentence corresponding to its part of speech. The algorithm makes of a probabilistic approach along with some randomness, together which forms the basis of an algorithm called Gibbs Sampling.",
-        "image": "/assets/other-projects/post.webp",
-        "jpg": "/assets/other-projects/post.jpeg"
+        "id": "other-project-pokedex",
+        "title": "React Native Pokedex with Expo",
+        "year": "Jan 2023 - May 2023",
+        "github": "https://github.com/ajensen32/24Pokedex",
+        "demo": "https://24-pokedex.vercel.app/",
+        "tags": ["Expo", "React Native", "TypeScript", "PokeAPI"],
+        "description": "A mobile/web application built with Expo and React Native, providing a responsive interface for viewing Pokemon information across multiiple platforms",
+        "image": "/assets/other-projects/Pokedex.webp",
+        "jpg": "/assets/other-projects/Pokedex.jpeg"
+    },
+    {
+        "id": "other-project-network",
+        "title": "Network Speed Detector",
+        "year": "Marh 2023 - Apr 2023",
+        "github": "https://github.com/ajensen32/Network-Speed/",
+        "demo": "https://network-speed-ten.vercel.app/",
+        "tags": ["JavaScript", "HTML/CSS"],
+        "description": "A web application that measures and displays your internet download speed by timing the download of an image file.",
+        "image": "/assets/other-projects/Network.webp",
+        "jpg": "/assets/other-projects/Network.jpeg"
+    },
+    {
+        "id": "other-project-password-generator",
+        "title": "Password Generator",
+        "year": "Oct 2022 - Nov 2022",
+        "github": "https://github.com/ajensen32/Password-Generator",
+        "demo": "https://password-generator-eight-sigma-97.vercel.app/",
+        "tags": ["Javascript", "HTML/CSS"],
+        "description": "A simple web application for generating secure passwords based on user-specified criteria.",
+        "image": "/assets/other-projects/Password.webp",
+        "jpg": "/assets/other-projects/Password.jpeg"
 
     },
     {
-        "id": "other-project-noq",
-        "title": "NoQ Job Portal",
-        "year": "Aug 2019 - Dec 2019",
-        "github": "https://github.com/hrishikeshpaul/noq",
-        "demo": "http://noq-client.herokuapp.com/login",
-        "tags": ["Vue", "NodeJS", "JavaScript", "MongoDB", "Heroku", "Agile", "Sockets", "JIRA"],
-        "description": "NoQ is a tool which allows for both employers and students to skip the hassle seen in modern day career fairs, while effectively pairing up students with employees based on various factors.",
-        "readMore": "https://hrishikeshpaul.medium.com/noq-a-job-portal-for-college-career-fairs-9996bbb37a1c",
-        "image": "/assets/other-projects/noq.webp",
-        "jpg": "/assets/other-projects/noq.jpeg"
-    },
-    {
-        "id": "other-project-bank-compare",
-        "title": "Experience Design Anaysis",
-        "year": "Aug 2019 - Dec 2019",
-        "tags": ["UX Design", "Analysis", "Adobe XD", "Mockups"],
-        "description": "This project demonstrates how the selection of colors, fonts, shapes, languages, layout and other styles can lead to drastically different user experiences, by comparing landing pages of 3 bank websites built from scratch.",
-        "readMore": "https://drive.google.com/file/d/1GY2WmRZgvBgFx6OlAMcAj8_DQVmS5VBw/view",
-        "image": "/assets/other-projects/bank.webp",
-        "jpg": "/assets/other-projects/bank.jpeg"
-    },
-    {
-        "id": "other-project-bunder",
-        "title": "Bunder",
-        "year": "Jan 2020 - Apr 2020",
-        "tags": ["Surveying", "User Interviews", "Ideation", "Analysis", "Product Planning"],
-        "description": "An MVP Proposal - Bunder is an intuitive web platform for micro-communities to share sensitive data with privacy within the community and allow engagement amongst them.",
-        "readMore": "https://drive.google.com/file/d/1sj9wL7uEokNpk6VUu3nsiPHf3TZeu4lT/view?usp=sharing",
-        "image": "/assets/other-projects/bunder.webp",
-        "jpg": "/assets/other-projects/bunder.jpeg"
-    },
-    {
-        "id": "other-project-suicide-analyzer",
-        "title": "Suicide Analyzer",
-        "tags": ["AngularJS", "JavaScript", "Express", "NodeJS", "Leaflet", "Heroku", "Python", "Pandas"],
-        "description": "This is a web application, uses a map to demonstrate the number suicides committed around the globe, according to a dataset provided by the WHO.",
-        "github": "https://github.com/hrishikeshpaul/whodata",
-        "image": "/assets/other-projects/suicide-analyzer.webp",
-        "jpg": "/assets/other-projects/suicide-analyzer.jpeg"
-    },
-    {
-        "id": "other-project-nutricare",
-        "title": "Nutricare",
-        "tags": ["AngularJS", "JavaScript", "Express", "NodeJS", "Leaflet", "Heroku", "Python", "Pandas"],
-        "description": "A web app for patients to input nutrient intake data and researchers to analyse the data with the help of graphs and tables. A researcher can conduct studies on N different subjects for a particular problem statement.",
-        "readMore": "https://angel.co/projects/576300-nutricare",
-        "image": "/assets/other-projects/nutricare.webp",
-        "jpg": "/assets/other-projects/nutricare.jpeg"
+        "id": "other-project-snake-game",
+        "title": "Retro Snake Game",
+        "year": "Jan 2023 - Feb 2023",
+        "github": "https://github.com/ajensen32/Snake-Game",
+        "demo": "https://snake-game-hazel-iota.vercel.app/",
+        "tags": ["JavaScript", "HTML/CSS"],
+        "description": "A classic Snake game using HTML, CSS, and JavaScript, featuring dynamic score tracking, increasing difficulty levels, and responsive controls, providing an engaging user experience.",
+        "image": "/assets/other-projects/Snake.webp",
+        "jpg": "/assets/other-projects/Snake.jpeg"
     }
 ]
